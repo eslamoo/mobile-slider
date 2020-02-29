@@ -21,7 +21,7 @@
   position: relative;
 
   display: block;
-  overflow: hidden;
+  overflow: initial;
 
   margin: 0;
   padding: 0;
